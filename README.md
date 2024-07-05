@@ -30,21 +30,15 @@ Mumble is designed with the following usability criteria in mind:
 
 1. **Ease of Use:**
    - Intuitive navigation and straightforward features make Mumble accessible to all students.
-   - Whether you're a tech-savvy student or a first-time app user, Mumble is easy to navigate.
 
 2. **Accessibility:**
-   - Mumble follows accessibility guidelines to ensure that all students, including those with disabilities, can use the app effectively.
    - Clear fonts, color contrast, and screen reader compatibility enhance accessibility.
 
 3. **Personalization:**
-   - Customize your Mumble experience.
    - Choose your interests, set preferences, and tailor the app to your liking.
 
 4. **Engagement:**
-   - Mumble encourages active participation.
    - Join discussions, attend events, and connect with others—it's more than just an app; it's a community.
-
-
 
 ## User Manual
 For detailed instructions on using Mumble, check out our [User Manual](docs/user_manual.md).
