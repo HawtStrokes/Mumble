@@ -1,9 +1,11 @@
 # Mumble: Connecting Students at MMCM
 
-![COLATA Logo](assets/images/colata_logo.png)
-![Mumble Logo](assets/images/mumble_logo.png)
-
 Mumble is a mobile application designed to address the social challenges faced by students at Mapúa Malayan Colleges Mindanao (MMCM). Whether you're an irregular student, someone who has shifted courses, or a newcomer from another school, Mumble aims to make your college experience more engaging and connected.
+
+<p align="center">
+<img src="https://github.com/HawtStrokes/Mumble/blob/main/assets/images/colata_logo.png" width=35% height=35%>
+<img src="https://github.com/HawtStrokes/Mumble/blob/main/assets/images/mumble_logo.png" width=35% height=35%>
+</p>
 
 ## Features
 
@@ -41,6 +43,8 @@ Mumble is designed with the following usability criteria in mind:
 4. **Engagement:**
    - Mumble encourages active participation.
    - Join discussions, attend events, and connect with others—it's more than just an app; it's a community.
+
+
 
 ## User Manual
 For detailed instructions on using Mumble, check out our [User Manual](docs/user_manual.md).
